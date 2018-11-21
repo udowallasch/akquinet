@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: udo
+Build-Jdk: 10.0.2
+Implementation-Title: MeetingSequencerSwagger
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.udo
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

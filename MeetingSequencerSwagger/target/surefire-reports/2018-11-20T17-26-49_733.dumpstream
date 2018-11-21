@@ -1,0 +1,6 @@
+# Created at 2018-11-20T17:26:50.989
+Fehler: Hauptklasse org.apache.maven.surefire.booter.ForkedBooter konnte nicht gefunden oder geladen werden
+
+# Created at 2018-11-20T17:26:50.989
+Ursache: java.lang.ClassNotFoundException: org.apache.maven.surefire.booter.ForkedBooter
+
