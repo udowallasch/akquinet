@@ -74,7 +74,8 @@ public class WebLayerMeetingTest {
 				.accept(MediaType.APPLICATION_JSON_UTF8);
 				
 		mockMvc.perform(builder).andExpect(MockMvcResultMatchers.status().isOk())
-		.andExpect(content().string(containsString("4711")));
+		.andExpect(content().string(containsString("4711")))
+		.andExpect(content().string(containsString("4712")));
 
 	}
 	private String getMeetingJson() {
